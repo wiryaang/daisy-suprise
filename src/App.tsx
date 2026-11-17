@@ -87,13 +87,15 @@ function App() {
     <div className="letter-divider"></div>
 
     <p className="letter-body">
-      Your personal message goes here.
+      Thank you for bringing color to my everyday and holding the closest place to my heart. 
+      I'm far from perfect, but I promise that choosing me won't be your regret. 
+      You're my absolute favorite part of every single day
     </p>
 
     <p className="letter-signature">
-      With all my love,
+      The guy who thinks about you way too much,
       <br />
-      Your Name ♡
+      Azka ♡
     </p>
   </div>
 </div>
